@@ -37,13 +37,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
-
----
 
 ### 📈 Most Used Languages
 
@@ -54,5 +47,7 @@
 ### 🌐 Connect With Me
 
 https://www.linkedin.com/in/amir-majeed-03674628b/
+<br>
 https://amirmajeed-dev.vercel.app/
+<br>
 https://github.com/AmirMajeed4905
