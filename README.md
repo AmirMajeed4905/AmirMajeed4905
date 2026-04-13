@@ -75,6 +75,7 @@
 <img src="https://img.shields.io/badge/Express-black?style=for-the-badge" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb" />
+<img src="https://img.shields.io/badge/Prisma-black?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker" />
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws" />
 
