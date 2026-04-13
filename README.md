@@ -61,17 +61,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmirMajeed4905&theme=tokyo-night" />
 </p>
 
----
-
-<!-- ================= SNAKE ================= -->
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AmirMajeed4905/AmirMajeed4905/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 <!-- ================= TECH STACK ================= -->
 
